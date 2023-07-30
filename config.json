@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 100,
+        "max-threads-hint": 90,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
@@ -62,7 +62,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "45.79.17.81:3333",
+            "url": "172.233.197.17:3333",
             "user": "images",
             "pass": "x",
             "rig-id": null,
